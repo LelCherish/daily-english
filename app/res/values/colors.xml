@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#FAF6EF</color>
+    <color name="card">#FFFDF9</color>
+    <color name="ink">#23262B</color>
+    <color name="faint">#8C887F</color>
+    <color name="hairline">#E8E1D5</color>
+    <color name="accent">#BF4A38</color>
+</resources>
